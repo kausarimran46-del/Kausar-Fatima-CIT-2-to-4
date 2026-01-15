@@ -1,0 +1,8 @@
+# write a python program to print the area of circle
+import math
+import random
+r=random.uniform(1,10)
+area=math.pi*r*r
+pi=3.142
+print("radius=",r)
+print("area=",area)
